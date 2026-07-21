@@ -1,16 +1,26 @@
-## Hi there 👋
+# Olá, eu sou o Mateus Lima Cançado
 
-<!--
-**Mateus-Cancado/Mateus-Cancado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Estudante do último ano de Ciência da Computação (UNIFRAN)**  
+💻 **Desenvolvedor Backend | Java | Spring Boot | PostgreSQL | Docker**
 
-Here are some ideas to get you started:
+Utilizo este espaço no GitHub como **portfólio principal** para demonstrar na prática minhas habilidades técnicas e evolução como desenvolvedor.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📌 O que você vai encontrar por aqui:
+* 🎓 **Projetos Acadêmicos & Extensão:** Soluções desenvolvidas durante a graduação, incluindo projetos mobile/backend focados em cenários reais (como gestão de saúde).
+* ⚙️ **Projetos Pessoais & Profissionais:** Aplicações desenvolvidas em **Java / Spring Boot**, focando em arquitetura de microsserviços, APIs RESTful, persistência com bancos SQL/NoSQL e boas práticas de software.
+* 🧪 **Estudos & Experimentos:** Implementações com **Docker, CI/CD, Observabilidade (Grafana)** e outras ferramentas do ecossistema backend e DevOps.
+
+---
+
+### 🛠️ Principais Tecnologias & Ferramentas:
+* **Linguagens & Frameworks:** Java, Spring Boot, Python, JavaScript / React Native
+* **Banco de Dados:** PostgreSQL, MySQL, MongoDB, Supabase
+* **DevOps & Ferramentas:** Docker, Docker Compose, Git, CI/CD, Grafana
+
+---
+
+📬 **Vamos se conectar?**
+* 📧 mateuscancado.dev@gmail.com
+* 💼 [LinkedIn](http://linkedin.com/in/mateus-cancado)
