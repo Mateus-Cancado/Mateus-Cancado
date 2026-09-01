@@ -1,6 +1,6 @@
 # Olá, eu sou o Mateus Lima Cançado
 
-🎓 **Estudante do último ano de Ciência da Computação e do primeiro ano de Engenharia de Software (UNIFRAN)**   
+🎓 **Estudante de Ciência da Computação(8º) e Engenharia de Software(3º) (UNIFRAN)**   
 💻 **Desenvolvedor Backend | Java | Spring Boot | SQL | Docker**
 
 Utilizo este espaço no GitHub como **portfólio** para demonstrar na prática minhas habilidades técnicas e evolução como desenvolvedor.
@@ -15,9 +15,10 @@ Utilizo este espaço no GitHub como **portfólio** para demonstrar na prática m
 ---
 
 ### 🛠️ Principais Tecnologias & Ferramentas:
-* **Linguagens & Frameworks:** Java, Spring Boot, Python, JavaScript / React Native
-* **Banco de Dados:** PostgreSQL, MySQL, MongoDB, Supabase
-* **DevOps & Ferramentas:** Docker, Docker Compose, Git
+* **Linguagens & Frameworks:** Java, Spring Boot, Python, JavaScript, React Native.
+* **Backend & Arquitetura:** APIs RESTful, Microsserviços.
+* **Banco de Dados:** PostgreSQL, MySQL, MongoDB, Supabase.
+* **Ferramentas:** Git/GitHub, Docker.
 
 ---
 
